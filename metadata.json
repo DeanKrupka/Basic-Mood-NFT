@@ -1,0 +1,17 @@
+{
+    "dna": "bagabonia",
+    "name": "#1",
+    "description": "Good Trading Card",
+    "image": "ipfs.io/ipfs/QmdqSnjt5FKj1Bh9BJFVo2HAS7AJPUbrLHKcWSEoLCxBSR?filename=f%20r%201.jpeg",
+    "external_url": "https://",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Foreground",
+        "value": "Original"
+      }
+    ]
+  }
